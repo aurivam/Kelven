@@ -1,0 +1,4 @@
+1- Identifique entidades e o relacionamento entre elas e faça o modelo conceitual.
+Você é administrador de banco de dados e foi contratado por um empresário para desenvolver um banco de dados para controlar as escolas, professores, alunos etc.
+Existem várias escolas e cada escola contém um diretor que é responsável pelos professores. O professor tem uma ou mais disciplinas e pode lecionar para vários alunos.
+Encontre as entidades, atributos do caso acima e Faça o Modelo de entidade e relacionamento.
